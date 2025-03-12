@@ -10,3 +10,17 @@ h1{
  color: red;
 }
 
+nav{
+
+  text-align: center;
+}
+
+#featured-property{
+
+  display: grid;
+  place-items: center;
+
+
+  
+}
+
